@@ -1,4 +1,6 @@
-# pragyan-Bridge-brigadier-2019
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=pragyan+Bridge+brigadier+2019" alt="Typing SVG" />
+</a>
 
 This project documents the development of a differential drive robot with a gripper mechanism designed to participate in the Pragyan competition, organized by the Techfest of NITT. The aim of the competition was to construct a robot capable of carrying blocks and filling gaps between bridges, while successfully navigating through them and completing the track on time.
 
